@@ -1,0 +1,14 @@
+.cardId {
+  border: 2px solid black;
+  padding: 20px;
+  display: flex;
+}
+
+.cardId-info {
+  margin-left: 20px;
+}
+
+.cardId p {
+  line-height: 0.5rem;
+  text-align: start;
+}
